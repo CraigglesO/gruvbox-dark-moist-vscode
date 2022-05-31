@@ -1076,14 +1076,8 @@
     // NOTIFICATION
     "notifications.background": "#353d42",
     "notifications.foreground": "#cabfa4",
-    "notifications.buttonBackground": "#665c54",
-    "notifications.buttonHoverBackground": "#665c5450",
-    "notifications.buttonForeground": "#cabfa4",
-    "notificationsInfoIcon.background": "#83a598",
     "notificationsInfoIcon.foreground": "#353d42",
-    "notifications.warningBackground": "#d4b77c",
     "notificationsWarningIcon.foreground": "#353d42",
-    "notifications.errorBackground": "#dc7b7c",
     "notificationsErrorIcon.foreground": "#353d42",
     // EXTENSIONS
     "extensionButton.prominentBackground": "#9bb37a80",
