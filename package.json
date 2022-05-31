@@ -1,0 +1,27 @@
+{
+    "name": "gruvbox-dark-moist",
+    "displayName": "gruvbox-dark-moist",
+    "description": "An edit on a popular theme by Pavel Pertsev. This theme is an even softer version of the original gruvbox dark soft theme.",
+    "version": "0.0.1",
+    "LICENSE": "ISC",
+    "publisher": "MrMartian",
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/CraigglesO/gruvbox-dark-moist-vscode"
+    },
+    "engines": {
+        "vscode": "^1.63.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "gruvbox-dark-moist",
+                "uiTheme": "vs-dark",
+                "path": "./themes/gruvbox-dark-moist-color-theme.json"
+            }
+        ]
+    }
+}
